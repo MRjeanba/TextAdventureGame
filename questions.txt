@@ -1,0 +1,4 @@
+Tu fais face à un troll des cavernes! Tu... 1. prends ta hache et le décapite  2. jette un sort de flammes. Ça fera parfaitement l'affaire  3. Lance du sable dans les yeux pour le poignarder dans le dos
+Une porte en bois massif bloque l'accès au prochain étage. Tu...  1. lui donne des couprs de pieds jusqu'à ce qu'elle défonce  2. reconnais le type de serrure et magnétise le loquet pour l'ouvrir  3. utilise tes crochets préférés, un vrai jeu d'enfant
+Le gobelin que tu as capturé connais la réponse à une énigme critique. Tu...  1. lui tord tout ce que tu peux imaginer pour le faire parler  2. lui pose des questions sur l'énigme en lisant son esprit pour découvrir la réponse\n  3. l'empoisonne et échange la réponse contre l'antidote, c'est de l'eau mais il n'a pas besoin de le savoir
+Les questions ne permettent pas de déterminer ton style de jeu. Choisis ta classe : 1.  Guerrier  2.  Magicien  3.  Voleur

@@ -1,0 +1,4 @@
+Gobelin;5;2;0;10;7;Créature humanoïde verte de petite taille, un proie facile!
+Orc;8;3;1;5;9;Créature verte et musclée, cet humanoïde est imprévisible et dangereux.
+Troll;10;5;3;2;10;Géant rachitique mais extrêmement fort, sa régénération est problématique.
+ChevalierNoir;8;10;4;7;10;Symbole de cruautée, le chevalier noir est lourdement armé.

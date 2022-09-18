@@ -1,0 +1,3 @@
+Guerrier;30;15;3;7;10;Une brute sanguinaire ou un noble chevalier, à toi de décider. Tu es endurant, rapide et un maître des arts martiaux. Pas le crayon le plus aiguisé de la boîte par contre...
+Magicien;15;20;5;5;20;Tu es un maître de l'arcane et des éléments. Mais les années d'étude et de recherche ne t'ont pas laissé l'occasion de développer ton physique
+Voleur;25;15;1;10;15;Tu es une racaille de la pire espèce, prêt à poignarder, mentir et voler pour une poignée de piécettes
